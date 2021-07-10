@@ -1,5 +1,5 @@
 # Deep Learning Program
-## Liver segmentation based on deep convolutional networks
+## Liver Segmentation Based on Deep Convolutional Networks
 
 U-NET and UNET ++ models based on RESNET were constructed, and the models were evaluated and tested in the liver Segmentation dataset of the Medical Segment Decathlon Challenge. The experimental results show that both models have good effects, while the UNET ++ model based on RESNET has better performance. In addition, we combined Focal Loss and Dice Loss to design a mixed Loss function to obtain more accurate segmentation results.
 
