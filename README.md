@@ -6,3 +6,5 @@ U-NET and UNET ++ models based on RESNET were constructed, and the models were e
 We also combined U-Net with void convolution, used void convolution to replace conventional convolution operation to expand the convolution receptive field, and constructed and trained DC-UNET. Due to resource constraints, we have not been able to test the segmentation effect of this model, which can be used as a direction for future work.
 
 Data set comes from the "Medical Segmentation Decathlon Challenge" liver Segmentation of data set and can be downloaded from the website (http://medicaldecathlon.com/).
+
+For more details of model results and structure please read report.docx
